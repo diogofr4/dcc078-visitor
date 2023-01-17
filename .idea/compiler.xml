@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="singleton" />
+        <module name="dcc078-bridge" />
+        <module name="dcc078-decorator" />
+        <module name="dcc078-chainofresposability" />
+        <module name="ufjf-dcc078-singleton" />
+        <module name="diogofr4-ufjf-dcc078-builder" />
+        <module name="dcc078-templatemethod" />
+        <module name="dcc078-visitor" />
+        <module name="padrao-singleton-master" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
